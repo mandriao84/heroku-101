@@ -1,0 +1,18 @@
+{
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "heroku-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
